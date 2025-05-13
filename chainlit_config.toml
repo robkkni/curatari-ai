@@ -1,0 +1,12 @@
+[project]
+name = "Curatari AI"
+description = "An AI assistant powered by Qwen3-30b-128k and RAG"
+
+[ui]
+name = "Curatari AI"
+description = "Ask me anything about your documents"
+icon = "🤖"
+
+[features]
+# Enable or disable file uploads
+file_upload = true 

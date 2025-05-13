@@ -1,14 +1,16 @@
-# Welcome to Chainlit! 🚀🤖
+# Welcome to Curatari AI 🤖
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+Curatari AI is your intelligent document assistant, helping you find information across your document collection.
 
-## Useful Links 🔗
+## Features
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+- **Ask questions about your documents** - Get accurate answers with citations
+- **Upload new documents** - Expand your knowledge base
+- **Natural conversation** - Chat naturally with context-aware responses
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+## Examples
 
-## Welcome screen
-
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+Try asking:
+- "What are the key points in the latest quarterly report?"
+- "Summarize the main arguments in the research paper about climate change"
+- "What did the team decide about the new product launch?"
